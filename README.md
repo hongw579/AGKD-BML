@@ -12,6 +12,10 @@ To train the model with AGKD-BML:
 ```
 python main.py
 ```
+## Trained model
+
+A trained model can be found [here](https://drive.google.com/file/d/1JAtLps8xqGTNCidjDBbuSQ4ljNXLt4jm/view?usp=sharing)
+
 ## Citing this work
 
 If you find this work is useful, please cite the paper:
